@@ -1,16 +1,17 @@
 # Windows-Server-Übungen
 
-Praktische Übungen zu Windows-Server-Themen, jeweils passend zu einem Lehrplan. Alle Übungen sind Markdown mit nummerierten Schritten (Menüweg und PowerShell) und laufen in einem isolierten Hyper-V-Labor.
+Praktische Übungen und Lernskripte zu Windows Server, Active Directory und Gruppenrichtlinien. Alles auf Deutsch. Jeder Kurs liegt in einem eigenen Ordner mit eigener README.
 
-**Status: Entwurf.** Nichts davon wurde auf Windows ausgeführt. Jede Übung nennt ihren Teststand in einem Warnhinweis.
+**Status: Entwurf.** Die Übungsreihe `dateidienste-dfs-druckserver` wurde nicht auf Windows ausgeführt. Jede Übung nennt ihren Teststand in einem Warnhinweis.
 
 ## Kurse
 
-| Kurs | Lehrplan | Module | Stand |
-|---|---|---|---|
-| [Dateidienste, DFS und Druckserver](dateidienste-dfs-druckserver/) | P02 | 12 (120 UE) | Entwurf, vollständig |
-
-Weitere Kurse folgen in eigenen Unterordnern.
+| Ordner | Art | Inhalt |
+|---|---|---|
+| [dateidienste-dfs-druckserver](dateidienste-dfs-druckserver/) | Übungsreihe | Dateidienste, DFS und Druckserver, 12 Module (120 UE), Hyper-V-Labor |
+| [active-directory](active-directory/) | Lernskript | Active Directory, 12 Module |
+| [ad-benutzerverwaltung](ad-benutzerverwaltung/) | Übungsreihe | Benutzerverwaltung im Active Directory |
+| [gruppenrichtlinien](gruppenrichtlinien/) | Lernskript | 100 Gruppenrichtlinien in 10 Modulen |
 
 ## Hinweis
 
@@ -18,6 +19,6 @@ Die Übungen ändern Berechtigungen, Freigaben, Dienste und schalten Server ab. 
 
 ## Lizenz
 
-Befehle und Skripte: MIT ([LICENSE](LICENSE)). Texte: CC BY 4.0 ([LICENSE-DOCS.md](LICENSE-DOCS.md)).
+Befehle und Skripte: MIT ([LICENSE](LICENSE)). Texte: CC BY 4.0 ([LICENSE-DOCS.md](LICENSE-DOCS.md)). Die übernommenen Kurse bringen ihre eigenen Lizenzdateien in ihrem Ordner mit.
 
 Windows, Windows Server und PowerShell sind Marken der Microsoft Corporation. Dieses Repository steht in keiner Verbindung zu Microsoft.

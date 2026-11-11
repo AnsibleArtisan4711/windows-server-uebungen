@@ -1,0 +1,11 @@
+# Lokale Dateien
+.env
+*.log
+.DS_Store
+Thumbs.db
+
+# LaTeX-Hilfsdateien (die Quelle liegt nicht in diesem Repository)
+*.aux
+*.toc
+*.out
+*.synctex.gz
