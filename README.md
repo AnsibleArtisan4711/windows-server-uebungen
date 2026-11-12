@@ -14,6 +14,8 @@ Praktische Übungen und Lernskripte zu Windows Server, Active Directory und Grup
 | [gruppenrichtlinien](gruppenrichtlinien/) | Lernskript | 100 Gruppenrichtlinien in 10 Modulen |
 | [wsus-und-update-verwaltung](wsus-und-update-verwaltung/) | Übungsreihe | WSUS und Update-Verwaltung, 12 Module (104 UE), Hyper-V-Labor |
 | [zertifikatsdienste-und-pki](zertifikatsdienste-und-pki/) | Übungsreihe | Zertifikatsdienste und PKI (AD CS), 12 Module (116 UE), Hyper-V-Labor |
+| [remotedesktopdienste-rds](remotedesktopdienste-rds/) | Übungsreihe | Remotedesktopdienste (RDS), 13 Module (104 UE), Hyper-V-Labor |
+| [windows-admin-center](windows-admin-center/) | Übungsreihe | Windows Admin Center, 9 Module (52 UE), Hyper-V-Labor |
 
 ## Hinweis
 
