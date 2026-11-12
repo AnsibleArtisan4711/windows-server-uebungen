@@ -12,6 +12,8 @@ Praktische Übungen und Lernskripte zu Windows Server, Active Directory und Grup
 | [active-directory](active-directory/) | Lernskript | Active Directory, 12 Module |
 | [ad-benutzerverwaltung](ad-benutzerverwaltung/) | Übungsreihe | Benutzerverwaltung im Active Directory |
 | [gruppenrichtlinien](gruppenrichtlinien/) | Lernskript | 100 Gruppenrichtlinien in 10 Modulen |
+| [wsus-und-update-verwaltung](wsus-und-update-verwaltung/) | Übungsreihe | WSUS und Update-Verwaltung, 12 Module (104 UE), Hyper-V-Labor |
+| [zertifikatsdienste-und-pki](zertifikatsdienste-und-pki/) | Übungsreihe | Zertifikatsdienste und PKI (AD CS), 12 Module (116 UE), Hyper-V-Labor |
 
 ## Hinweis
 
